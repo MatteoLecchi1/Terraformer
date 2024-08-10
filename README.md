@@ -12,5 +12,5 @@ if the player gets far enoght away from a loaded chunk this is hidden but is sti
 ![alt text](https://github.com/MatteoLecchi1/Terraformer/blob/main/Screenshots/Chunks.PNG?raw=true)
 
 ## water
-water has animated textures and some physics to allow the player to land in it
+water has animated textures and makes the player float to allow him to land in it
 ![alt text](https://github.com/MatteoLecchi1/Terraformer/blob/main/Screenshots/FinalProduct.PNG?raw=true)
